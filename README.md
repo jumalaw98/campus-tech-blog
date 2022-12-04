@@ -97,10 +97,10 @@ Our progress is featured on our e-magazine.</h4>
 
 <h2 align="center"> Code of Conduct 📜</h2>
 
-To maintain a safe and inclusive space for everyone, to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md) and also go through [Guidelines for Contributing](./CONTRIBUTING.md) atleast once.
-
+To maintain a safe and inclusive space for everyone, to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 <hr>
 
 © 2022 Campo-Yangu
+This project is licensed under the **MIT license**
 
