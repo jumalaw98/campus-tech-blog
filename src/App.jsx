@@ -3,7 +3,7 @@ import React from "react";
 export const App = () => {
   return (
     <div>
-      <h1>CampoYangu</h1>
+      <h1>Campo yangu</h1>
     </div>
   );
 };
