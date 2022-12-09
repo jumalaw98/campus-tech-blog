@@ -24,6 +24,16 @@ Our progress is featured on our e-magazine.</h4>
 
 <h3 align="center">Contribute to the Open Source Website of Campo Yangu</h3>
 
+<p>The following Tech-Stack are used for the <strong>project campus-tech-blog</strong></p>
+<strong>MERN-Js Fullstack</strong>
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 <p>Follow the instructions mentioned below</p>
 
 **1.**  Fork [this repository](https://github.com/Campo-Yangu/campus-tech-blog.git).
@@ -94,6 +104,23 @@ Our progress is featured on our e-magazine.</h4>
 ```bash
 	git merge upstream/main
 ```
+
+<h3>Running the Project Locally</h3>
+
+**1.** Install all the dependencies  
+```bash
+	npm i
+```
+
+**2.** To run the application locally on your browser  
+```bash
+	npm run dev
+```
+
+<h3>Refferenence</h3>
+
+- All the development are from the [Campus-tech-blog Design](https://www.figma.com/file/KpNraNFaYpNjpUQndQx4dG/Campo-Yangu?node-id=0%3A1&t=30SxGhXgSgZI8FVa-0) 
+
 
 <h2 align="center"> Code of Conduct 📜</h2>
 
